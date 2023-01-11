@@ -51,10 +51,12 @@ namespace Exercicio081.Entities
             sb.AppendLine("Order status: " + Status);
             sb.AppendLine("Client: " + Client);
             sb.AppendLine("Order items:");
+
             foreach (OrderItem item in Items)
             {
                 sb.AppendLine(item.ToString());
             }
+
             sb.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
             return sb.ToString();
         }

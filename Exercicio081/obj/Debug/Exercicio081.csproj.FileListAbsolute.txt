@@ -6,3 +6,11 @@ C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Exercicio081\obj
 C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Exercicio081\obj\Debug\Exercicio081.csproj.CoreCompileInputs.cache
 C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Exercicio081\obj\Debug\Exercicio081.exe
 C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Exercicio081\obj\Debug\Exercicio081.pdb
+C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Pedido-de-compra\Exercicio081\bin\Debug\Exercicio081.exe.config
+C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Pedido-de-compra\Exercicio081\bin\Debug\Exercicio081.exe
+C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Pedido-de-compra\Exercicio081\bin\Debug\Exercicio081.pdb
+C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Pedido-de-compra\Exercicio081\obj\Debug\Exercicio081.csproj.AssemblyReference.cache
+C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Pedido-de-compra\Exercicio081\obj\Debug\Exercicio081.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Pedido-de-compra\Exercicio081\obj\Debug\Exercicio081.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Pedido-de-compra\Exercicio081\obj\Debug\Exercicio081.exe
+C:\Users\Guilherme Pascoal\source\repos\Exercicios\Exercicio081\Pedido-de-compra\Exercicio081\obj\Debug\Exercicio081.pdb

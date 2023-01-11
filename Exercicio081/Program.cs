@@ -11,16 +11,16 @@ namespace Exercicio081
         {
             Console.WriteLine("Enter client data:");
             Console.Write("Name: ");
-            string name = Console.ReadLine();
+            string nameClient = Console.ReadLine();
             Console.Write("Email: ");
             string email = Console.ReadLine();
-            Console.Write("Birth Date (MM/DD/YYYY): ");
+            Console.Write("Birth Date (DD/MM/YYYY): ");
             DateTime birthDate = DateTime.Parse(Console.ReadLine());
             Console.WriteLine("Enter order data:");
             Console.Write("Status: ");
             OrderStatus status = (OrderStatus)Enum.Parse(typeof(OrderStatus), Console.ReadLine());
 
-            Client client = new Client(name, email, birthDate);
+            Client client = new Client(nameClient, email, birthDate);
             Order order = new Order(DateTime.Now, status, client);
 
             Console.Write("How many items to this order? ");
