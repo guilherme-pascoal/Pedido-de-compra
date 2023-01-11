@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 using System.Globalization;
+using System.Collections.Generic;
 using Exercicio081.Entities.Enums;
 
 namespace Exercicio081.Entities
